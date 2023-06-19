@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/naasdd/Cronometro/blob/main/Screenshot_95.png?raw=true" width="800px">
+  <img src="[https://github.com/naasdd/Cronometro/blob/main/Screenshot_95.png?raw=true](https://cdn.glitch.global/20c7df43-211a-43a2-b4e1-e904827863e3/47ffc4c9-cf11-49f3-a4da-5464ee5a631b.image.png?v=1687134017669)" width="800px">
 </div>
 
 
