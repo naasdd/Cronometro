@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.glitch.global/293e092f-20b1-488b-9f74-489f2aca67a5/icone.png?v=1694917569392" width="800px">
+  <img src="https://cdn.glitch.global/293e092f-20b1-488b-9f74-489f2aca67a5/imagem_2023-09-16_233344509.png?v=1694918026098" width="800px">
 </div>
 
 
